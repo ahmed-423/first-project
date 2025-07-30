@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+.para{
+    text-align: center;
+    width: 50vh;
+}
+.pic{
+display: inline;        
+    text-align: center;
+    
+}
+header{
+width: 100vw;
+height: 20vh;
+background-color:white
+/* background-color: #fff; */
+
+}
+li{
+    font-size: larger;
+    display: inline;
+    margin-left:20px;
+    position: relative;
+    bottom:50px;
+
+}
+nav{
+    margin-left:70% ;
+}
+.button{
+    margin: auto;
+    text-align: center;
+}
+.slide{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+li a{
+    color: black;
+    text-decoration: none;
+    /* display: inline; */
+}
+nav :hover{
+    color: red;
+    text-decoration: underline;
+}
+header img{
+    position: relative;
+    left: 100px;
+    margin-top: 10px;
+    width: 100px;
+}
+header h1{
+    position: relative;
+    right: 395px;
+    bottom: 55px;
+    
+    color:red;
+}
+main .image {
+    background-repeat: no-repeat;
+}
+main h3{
+    color:wheat;
+    position: relative;
+    bottom: 100px;
+    left: 30px;
+    text-align: center;
+    font-size: 400%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.main{
+    display: flex;
+    margin-left:20%
+}
+.para-heading{
+    color: red;
+    position: relative;
+    right: 500px;
+}
+.para{
+    font-size: large;
+    margin-left: 30px;
+}
+.para-pic{
+
+    position: relative;
+    left: 500px;
+    bottom: 450px;
+
+   
+}
+footer{
+    
+
+    text-align: center;
+}
+ .name{
+    color: red;
+}
+.product-card{
+     width: 250px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+
+}
+.product-card img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+}
+.product-card h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.product-card p {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 20px;
+}
+.price {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #3e8e41;
+}
+.bootstrap-container{
+    .d-xl
+}
+

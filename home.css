@@ -1,0 +1,7 @@
+main{
+    width: 100vw;
+    height: 87vh;
+    background-image: url('image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
